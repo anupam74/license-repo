@@ -1,2 +1,2 @@
 # license-repo
-This is a repository for configuration files of license-service.
+This is a centralized configuration repository for license service application.
