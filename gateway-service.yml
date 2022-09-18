@@ -13,6 +13,6 @@ eureka:
 spring:
   cloud:
     gateway:
-        discovery.locator:              ❶
+        discovery.locator:
           enabled: true
           lowerCaseServiceId: true
